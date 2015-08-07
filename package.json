@@ -1,0 +1,26 @@
+{
+  "name": "scavengers",
+  "version": "1.0.0",
+  "description": "a leader board for the scavenger hunt over the 2015 CUNY-J orientation",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jueyang/scavengers.git"
+  },
+  "keywords": "scavenger, games, instagram",
+  "author": "Jue Yang",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jueyang/scavengers/issues"
+  },
+  "homepage": "https://github.com/jueyang/scavengers#readme",
+  "dependencies": {
+    "ejs": "^2.3.2",
+    "express": "^4.13.1",
+    "instagram-node": "^0.5.7",
+    "pg": "^4.4.0"
+  }
+}
